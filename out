@@ -1,0 +1,29 @@
+Child process
+foo: 2
+el3ayzeeno grep 
+-rw-rw-r-- 1 saif saif 34912 نوف 10 03:35 command.o
+a
+-rwxrwxr-x 1 saif saif  1886 نوف 10 02:27 bbb
+-rwxrwxr-x 1 saif saif  1886 نوف 10 02:27 ccc
+-rw-rw-r-- 1 saif saif  5813 نوف 10 03:35 command.cc
+-rw-rw-r-- 1 saif saif   874 نوف 10 00:50 command.h
+-rw-rw-r-- 1 saif saif 34912 نوف 10 03:35 command.o
+drwxrwxr-x 2 saif saif  4096 نوف 10 02:40 examples
+-rw-rw-r-- 1 saif saif     0 نوف 10 00:36 input.txt
+-rw-rw-r-- 1 saif saif 45710 نوف 10 03:34 lex.yy.c
+-rw-rw-r-- 1 saif saif 44872 نوف 10 03:34 lex.yy.o
+-rw-rw-r-- 1 saif saif   998 نوف 10 00:36 Makefile
+-rwxrwxr-x 1 saif saif    36 نوف 10 03:50 out
+-rwxrwxr-x 1 saif saif  1974 نوف 10 03:01 out2
+-rwxrwxr-x 1 saif saif   180 نوف 10 02:38 outfile
+-rwxrwxr-x 1 saif saif 70080 نوف 10 03:35 shell
+-rw-rw-r-- 1 saif saif   638 نوف 10 03:04 shell.l
+-rw-rw-r-- 1 saif saif  2843 نوف 10 03:04 shell.y
+drwxrwxr-x 2 saif saif  4096 نوف 10 02:57 tt
+-rw-rw-r-- 1 saif saif 47306 نوف 10 03:34 y.tab.c
+-rw-rw-r-- 1 saif saif  3323 نوف 10 03:34 y.tab.h
+-rw-rw-r-- 1 saif saif 29272 نوف 10 03:34 y.tab.o
+Child process
+foo: 2
+el3ayzeeno grep 
+-rw-rw-r-- 1 saif saif 34912 نوف 10 03:35 command.o

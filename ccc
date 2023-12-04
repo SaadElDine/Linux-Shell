@@ -1,0 +1,42 @@
+Child process
+foo: 0
+el3ayzeeno ls 
+total 324
+drwxrwxr-x 3 saif saif  4096 نوف 10 02:26 .
+drwxrwxr-x 3 saif saif  4096 نوف 10 00:36 ..
+-rw-rw-r-- 1 saif saif  5505 نوف 10 02:08 command.cc
+-rw-rw-r-- 1 saif saif   874 نوف 10 00:50 command.h
+-rw-rw-r-- 1 saif saif 34080 نوف 10 02:08 command.o
+drwxrwxr-x 2 saif saif  4096 نوف 10 00:36 examples
+-rw-rw-r-- 1 saif saif     0 نوف 10 00:36 input.txt
+-rw-rw-r-- 1 saif saif 45568 نوف 10 02:26 lex.yy.c
+-rw-rw-r-- 1 saif saif 44808 نوف 10 02:26 lex.yy.o
+-rw-rw-r-- 1 saif saif   998 نوف 10 00:36 Makefile
+-rwxrwxr-x 1 saif saif    36 نوف 10 02:26 out
+-rwxrwxr-x 1 saif saif 69824 نوف 10 02:26 shell
+-rw-rw-r-- 1 saif saif   611 نوف 10 02:25 shell.l
+-rw-rw-r-- 1 saif saif  2733 نوف 10 02:26 shell.y
+-rw-rw-r-- 1 saif saif 46809 نوف 10 02:26 y.tab.c
+-rw-rw-r-- 1 saif saif  3261 نوف 10 02:26 y.tab.h
+-rw-rw-r-- 1 saif saif 28944 نوف 10 02:26 y.tab.o
+Child process
+foo: 0
+el3ayzeeno ls 
+total 324
+drwxrwxr-x 3 saif saif  4096 نوف 10 02:26 .
+drwxrwxr-x 3 saif saif  4096 نوف 10 00:36 ..
+-rw-rw-r-- 1 saif saif  5505 نوف 10 02:08 command.cc
+-rw-rw-r-- 1 saif saif   874 نوف 10 00:50 command.h
+-rw-rw-r-- 1 saif saif 34080 نوف 10 02:08 command.o
+drwxrwxr-x 2 saif saif  4096 نوف 10 00:36 examples
+-rw-rw-r-- 1 saif saif     0 نوف 10 00:36 input.txt
+-rw-rw-r-- 1 saif saif 45568 نوف 10 02:26 lex.yy.c
+-rw-rw-r-- 1 saif saif 44808 نوف 10 02:26 lex.yy.o
+-rw-rw-r-- 1 saif saif   998 نوف 10 00:36 Makefile
+-rwxrwxr-x 1 saif saif   979 نوف 10 02:27 out
+-rwxrwxr-x 1 saif saif 69824 نوف 10 02:26 shell
+-rw-rw-r-- 1 saif saif   611 نوف 10 02:25 shell.l
+-rw-rw-r-- 1 saif saif  2733 نوف 10 02:26 shell.y
+-rw-rw-r-- 1 saif saif 46809 نوف 10 02:26 y.tab.c
+-rw-rw-r-- 1 saif saif  3261 نوف 10 02:26 y.tab.h
+-rw-rw-r-- 1 saif saif 28944 نوف 10 02:26 y.tab.o
